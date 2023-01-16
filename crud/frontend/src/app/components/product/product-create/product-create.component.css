@@ -1,0 +1,11 @@
+form{
+    display: flex;
+    flex-direction: column; /* colocar um elemnto embaixo do outro */
+    margin: 10px;
+}
+
+button{
+    margin: 10px;
+    margin-right: 10px;
+
+}
